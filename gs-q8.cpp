@@ -9,16 +9,18 @@ class Solution {
 		    // Code here
 		    int n = str.length();
 		    int dp[n+1];
-		    dp[0] = dp[1]=1;
-		    
+		    dp[0] = dp[1]= 1;
+		    int mod = 1000000007;
+		    if(str[0] == '0')
+		        return 0;
 		    for(int i=2;i<=n;++i){
 		        dp[i] = 0;
 		        
 		        if(str[i-1] > '0')
 		            dp[i] = dp[i-1];
 		        
-		        if((str[i-2] == '1' || str[i-2] == '2') && (str[i-1] < '7'))
-		            dp[i] += dp[i-2];
+		        if((str[i-2] == '1') || (str[i-2] == '2' && str[i-1] < '7'))
+		            dp[i] = ((dp[i]%mod) + (dp[i-2]%mod))%mod;
 		    }
 		    return dp[n];
 		}
