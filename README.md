@@ -16,8 +16,8 @@ Following are the questions along with what company they belong to :
 8. [Total Decoding Messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/) | [**My Solution**](https://github.com/shyamTayal/6-Company-30-days/blob/main/gs-q8.cpp)
 9. [Given a pattern containing only I's and D's. I for increasing and D for decreasing. Devise an algorithm to print the minimum number following that pattern.](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1) | [**My Solution**](https://github.com/shyamTayal/6-Company-30-days/blob/main/gs-q9.cpp)
 10. Find max 10 numbers in a list having 10M entries.
-11. [Given an unsorted array Arr of size N of positive integers. One number 'A' from set {1, 2, …N} is missing and one number 'B' occurs twice in array. Find these two numbers.](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/) 
+11. [Given an unsorted array Arr of size N of positive integers. One number 'A' from set {1, 2, …N} is missing and one number 'B' occurs twice in array. Find these two numbers.](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/) | [**My Solution**](https://github.com/shyamTayal/6-Company-30-days/blob/main/gs-q11.cpp)
 12. Find total number of Squares in a N*N chessboard
 13. [Decode the string](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1) | [**My Solution**](https://github.com/shyamTayal/6-Company-30-days/blob/main/gs-q13.cpp)
-14. Minimum Size Subarray Sum
-15. Array Pair Sum Divisibility Problem
+14. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [**My Solution**](https://github.com/shyamTayal/6-Company-30-days/blob/main/gs-q14.cpp)
+15. [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1) | [**My Solution**](https://github.com/shyamTayal/6-Company-30-days/blob/main/gs-q15.cpp)
