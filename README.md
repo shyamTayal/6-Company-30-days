@@ -24,7 +24,7 @@ Following are the questions along with what company they belong to :
 
 ---
 
-### [Amazon (Jan 6 - Jan 10)](https://docs.google.com/document/d/1KH9GVaUCET-y5SL5sg6DAnon9XwRRW-sPiyJ2p7FRLs/edit)
+### Amazon (Jan 6 - Jan 10)
 1. [Calculating Maximum Profit (Multiple Ladders Question)](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1) | [**My Solution**](https://github.com/shyamTayal/6-Company-30-days/blob/main/Amazon/am-q1.cpp)
 2. [Longest Mountain ](https://leetcode.com/problems/longest-mountain-in-array/) | [**My Solution**](https://github.com/shyamTayal/6-Company-30-days/blob/main/Amazon/am-q2.cpp)
 3. [IPL 2021 - Match Day 2 (similar to maximum in subarray)](https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/) | [**My Solution**](https://github.com/shyamTayal/6-Company-30-days/blob/main/Amazon/am-q3.cpp)
